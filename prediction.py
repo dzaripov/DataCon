@@ -40,7 +40,7 @@ if path_to_file.endswith('.xslx') or path_to_file.endswith('.xsl'):
 if path_to_file.endswith('.csv'):
     df = pd.read_csv(path_to_file)
 else:
-    print('Please, provide nanoparticle data in .csv or excel format to predict cell viability')
+    print('Please, provide nanoparticle data in .csv or excel format with the same columns as db.csv')
     exit()
 
 df = df.drop(columns=['is_human_cell', 'is_cancer_cell', 'cell_age'])
