@@ -1,4 +1,4 @@
-,material,core_size,hydro_size,surf_charge,is_cancer_cell,dose,viability,material_type,is_human_cell,surf_charge_cat,cell_age,cell_origin,cell_type,cell_line
+index,material,core_size,hydro_size,surf_charge,is_cancer_cell,dose,viability,material_type,is_human_cell,surf_charge_cat,cell_age,cell_origin,cell_type,cell_line
 0,CuO,12.8,313.8,0.0,1,200.0,9.1,I,1,0,0,0,0,0
 1,ZnO,22.6,114.7,0.0,0,200.0,9.5,I,1,0,0,0,0,0
 2,ZnO,22.6,114.7,0.0,0,100.0,10.2,I,1,0,0,0,0,0
