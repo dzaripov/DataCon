@@ -4,7 +4,7 @@ import sys
 import argparse
 
 
-# Параметры, полученные при оптимизации гиперпараметров программой Optuna
+# Parameters obtained by optimizing hyperparameters with Optuna
 params = {'loss_function': 'RMSE',
           'l2_leaf_reg': 0.10316964527875554,
           'colsample_bylevel': 0.09541076028546017,
