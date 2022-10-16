@@ -1,6 +1,4 @@
 # DataCon Hackathon
-DataCon_Hack_final_results.ipynb - итоговый результаты \
-DataCon_Hack_intermediate_results.ipynb - промежуточные результаты \
-db.csv - финальная версия базы данных \
-prediction.py - Предсказание viability для новых наночастиц \
-pres - Презентация проекта
+DataCon_Hack_final_results.ipynb - Main code \
+db.csv - final version of database \
+prediction.py - Python script of prediction viability for new nanoparticles\
